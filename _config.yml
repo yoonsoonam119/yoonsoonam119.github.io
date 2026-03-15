@@ -23,10 +23,10 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mypic2.png"
   name             : "Yoonsoo Nam (남윤수)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Looking for simple ways to understand neural networks"
   location         : "Seoul/Korea"
   employer         : "KAIST (Korea Advanced Institute of Science and Technology)"
   uri              : # URL
