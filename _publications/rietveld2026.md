@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 #permalink: /publication/rietveld2026.md
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2026
+date: 2026-03-31
 venue: ' Journal of Applied Crystallography'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
