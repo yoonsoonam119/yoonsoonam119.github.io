@@ -1,4 +1,4 @@
---
+---
 title: "Exactly solvable"
 collection: publications
 category: manuscripts
