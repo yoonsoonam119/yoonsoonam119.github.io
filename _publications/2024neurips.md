@@ -3,7 +3,7 @@ title: "An Exactly Solvable Model for Emergence and Scaling Laws in the Multitas
 collection: publications
 category: manuscripts
 #permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: '** Yoonsoo Nam<sup>*</sup> **, Nayara Fonseca<sup>*</sup>, Seok Hyeong Lee, Chris Mingard, Ard A. Louis'
+excerpt: '**Yoonsoo Nam<sup>*</sup>**, Nayara Fonseca<sup>*</sup>, Seok Hyeong Lee, Chris Mingard, Ard A. Louis'
 date: 2024-12-16
 venue: 'NeurIPS'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
