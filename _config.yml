@@ -23,7 +23,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://yoonsoonam119.github.io/files/mypic2.png"
+  avatar           : "mypic2.jpg"
   name             : "Yoonsoo Nam (남윤수)"
   pronouns         : # example: "she/her"  
   bio              : "Looking for simple ways to understand neural networks"
