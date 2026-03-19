@@ -10,6 +10,10 @@ Hi, I am Yoonsoo Nam, a Postdoctoral Researcher at KAIST and a member of the Cen
 
 Download my [CV](https://yoonsoonam119.github.io/files/YoonsooNam_CV2026.pdf) 
 
+Research Interests
+======
+Dynamics of neural networks, linear networks, grokking, neural collapse, emergence, feature learning, inductive bias of neural networks
+
 Education
 ======
 **University of Oxford** (2020-2025)
